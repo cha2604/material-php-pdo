@@ -41,7 +41,7 @@ function renderHeader($title) {
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <!-- Google Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="http://localhost/php-pdo/assets/css/style.css">
+        <link rel="stylesheet" href="http://localhost/material-php-pdo/assets/css/style.css">
 
 
     </head>

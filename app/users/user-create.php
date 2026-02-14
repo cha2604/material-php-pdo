@@ -142,6 +142,10 @@ $title = 'Create User';
 renderHeader($title);
 ?>
 
+<div class="nav">
+    <a href="<?php echo BASE_URL; ?>/app/users/dashboard.php">Back to Users</a>
+    <a href="<?php echo BASE_URL; ?>/app/auth/signout.php">Logout</a>
+</div>
 
 <div class="card">
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
